@@ -8,6 +8,8 @@ public class FamilyTree {
 			right = null;
 		}
 
+		
+		
 		Node(String val, Node leftChild, Node rightChild) {
 			value = val;
 			left = leftChild;
